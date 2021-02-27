@@ -8,6 +8,7 @@ just double click downloaded *.simhubdash* file to import it into Simhub
 **Prerequisites:**
 
 Richard Burns Rally with enabled UDP telemetry output (*richardburnsrally.ini* fuke), RBR's Simhub profile switched to UDP telemetry.
+
 ![RBR](rbr.png)
 
 ![Simhub](simhub.png)
