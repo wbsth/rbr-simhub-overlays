@@ -19,3 +19,10 @@ Richard Burns Rally with enabled UDP telemetry output (see *richardburnsrally.in
 Overlay that shows tire temperatures, pressure, and wear.
 
 ![Tire View](tireView/tireview.png)
+
+## Delta
+*last version: 30.08.2021*
+
+Overlay that shows delta to best time
+
+![Tire View](delta/delta.png)
